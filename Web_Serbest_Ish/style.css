@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body{
+background-image: url("Background.png");
+}
+
+.header-div {
+    width: 60%;
+    height: 50em;
+    margin-left: 20%;
+    background-color: rgb(223, 234, 229);
+
+}
+
+.main-navbar {
+    background-color: aliceblue;
+    width: 95%;
+    margin-top: 5px;
+}
+
+.logo-text {
+    color: black;
+    margin-left: 2%;
+    padding-top: 1%;
+    font-family: 'Montserrat', sans-serif;
+    width: 10%;
+    font-size: 23px;
+
+}
+
+.navbar-div {
+    width: 50%;
+    height: 5%;
+    margin-left: 23%;    
+    margin-top: -1.5%;
+}
+
+.navbar-textbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-text {
+    display: inline-block;
+    margin-left: 10%;
+    font-family: Helvetica;
+}
+
+
+.button-div {
+    width: 10%;
+    height: 5%;
+    margin-left: 85%;
+    margin-top: -3.8%
+}
+
+.button-div-signup {
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    border-color: black;
+    border-radius: 80px;
+    border: 2px solid black;
+    border-radius: 80px;
+}
+
+.button-div-signup:hover {
+    background-color:  rgb(223, 234, 229);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 30px;
+    border-radius: 80px;
+}
+
+.main-text {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    width: 45%;
+    height: 19%;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 25px;
+    
+}
+
+.paragraph-text {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    width: 40%;
+    height: 10%;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 20px;
+    text-align: justify;    
+}
+
+.button-start {
+    width: 10%;
+    height: 5%;
+
+}
+
+.button-div-start {
+    background-color: rgb(89, 141, 117);
+    color: aliceblue;
+    width: 200px;
+    height: 40px;
+    border: 2px solid  rgb(89, 141, 117);
+    margin-left: 50%;
+    margin-top: 10px;
+}
+
+.button-div-start:hover {
+    background-color: rgb(223, 234, 229);
+    color: black;
+    width: 200px;
+    height: 40px;
+    border: 2px solid  rgb(89, 141, 117);
+    margin-left: 50%;
+}
+
+.button-watch {
+    margin-left: 25%;
+    margin-top: -3.5%;
+    width: 1%;
+    height: 5%;
+
+}
+
+.button-div-watch {
+    background-color: rgb(223, 234, 229);
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 40px;
+    border: 2px solid  rgb(0, 0, 0);
+    margin-left: 50%;
+    margin-top: 10px;
+
+}
+
+.button-div-watch:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 40px;
+    border: 2px solid  rgb(0, 0, 0);
+    margin-left: 50%;
+}
+
+.line-horizontal {
+    background-color: rgb(48, 48, 48);
+    margin-top: 3%;
+    margin-left: 5%;
+    width: 40%;
+    height: 0.05%;
+}
+
+.line-vertical {
+    background-color: rgb(48, 48, 48);
+    margin-top: 0%;
+    margin-left: 24%;
+    width: 0.05%;
+    height: 15%;
+}
+
+.service-text {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    width: 40%;
+    height: 10%;
+    margin-left: 5%;
+    margin-top: -11%;
+    font-size: 20px;
+}
+
+.service-paragraph {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    width: 40%;
+    height: 5%;
+    margin-left: 0%;
+    margin-top: -5%;
+    font-size: 15px;
+}
+
+.forday-text {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    width: 40%;
+    height: 10%;
+    margin-left: 29%;
+    margin-top: -9.5%;
+    font-size: 20px;
+}
+
+.forday-paragraph {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    width: 40%;
+    height: 5%;
+    margin-left: 0%;
+    margin-top: -5%;
+    font-size: 15px;
+}
+
+.image-header {
+    max-width: 60%;
+    margin-left: 45%;
+    margin-top: -45%;
+}
+
+.main-div {
+    width: 60%;
+    height: 40em;
+    margin-left: 20%;
+    background-color: rgb(255, 255, 255);
+}
+
+.image-main {
+    max-width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.main-page-div {
+    width: 20%;
+    height: 20%;
+    margin-left: 55%;
+    margin-top: -27%;
+}
+
+.about-title {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+.about-title-second {
+    color: rgb(49, 49, 49);
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -2%;
+    font-size: 25px;
+}
+
+.about-paragraph {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    margin-top: -2.5%;
+    font-size: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+.button-div-learn {
+    width: 10%;
+    height: 5%;
+    margin-left: 55%;
+}
+
+
+.button-learn {
+    background-color: black;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    border: 2px solid black;
+}
+
+.button-learn:hover {
+    background-color:  rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+}
+
+.footer-div {
+    width: 60%;
+    height: 15em;
+    margin-left: 20%;
+    margin-top: 10%;
+    background-color: rgb(249, 249, 249);
+}
+
+.footer-title-div {
+    width: 20%;
+    height: 10%;
+    margin-top: -5%;
+}
+
+.footer-title {
+    color: rgb(49, 49, 49);
+    font-family: Helvetica;
+    font-size: 15px;
+    text-align: center;
+}
+
+.footer-paragraph-div {
+    width: 40%;
+    height: 40%;
+    margin-left: 30%;
+}
+
+
+.footer-paragraph {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;    
+}
+
+.footer-author {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+
+
+
+
+
+
+
